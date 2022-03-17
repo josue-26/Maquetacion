@@ -1,0 +1,33 @@
+.cabecera {
+  background-color:#529ABB;
+  text-align: center;
+}
+
+.cabecera2{
+  text-align: center;
+}
+
+.imagenes{
+  text-align: center;
+
+}
+
+.fondo{
+  text-align: center;
+  background-image: url('img/spacer/1.jpg');
+
+}
+
+.cabecera3{
+  text-align: center;
+}
+
+.imagenes2{
+  background-color: #F8F8F8;
+   align-items: center;
+   text-align: center;
+}
+
+.formulario{
+  text-align: center;
+}
